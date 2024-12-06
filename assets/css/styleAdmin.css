@@ -1,0 +1,10 @@
+.view-artikel h1{
+    color: #2F1C6A;
+    font-weight: 800;
+}
+
+.view-artikel .image-thumbnail img{
+    height: 400px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
